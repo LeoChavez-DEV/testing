@@ -1,3 +1,11 @@
-body{
-    background-color: red;
+*{
+    margin: 0;
+    padding: 0;
+}
+#container-header{
+    background-color: #F2ECEC;
+    height: 40px;
+    border: solid 2px black;
+    display: flex;
+    align-items: center;
 }
